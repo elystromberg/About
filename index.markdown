@@ -7,7 +7,7 @@ navigation_weight: 1
 ---
   I'm a PhD candidate at the department of Sociology at the University of Amsterdam, and the 
   Interuniversity Center for Social Science Theory and Methodology (ICS) in the Netherlands.
-
+  ![Picture](\About\docs\assets\BW.jpeg)
   My PhD project is placed in the Horizon Europe funded project EQUALSTRENGTH which investigates
   cumulative and structural forms of discrimination, outgroup prejudice and hate crimes against
   ethnic, racial and religious minorities. More information about EQUALSTRENGTH can be found 
