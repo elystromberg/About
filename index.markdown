@@ -15,7 +15,7 @@ navigation_weight: 1
   
   I am also working on improving robustness of educational mobility research, my master's thesis
   can be found [here](https://su.diva-portal.org/smash/record.jsf?pid=diva2:1709900). A working 
-  paper titled "“How Robust are Country Rankings in Educational Mobility?" I'm writing together
+  paper titled "How Robust are Country Rankings in Educational Mobility?" I'm writing together
   with Per Engzell (UCL) will be available shortly.
 
   Previously I have worked as a research assistant in a project on the role of recrutiment for
