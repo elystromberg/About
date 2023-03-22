@@ -5,6 +5,7 @@ title: About
 layout: home
 navigation_weight: 1
 ---
+  ![profile picture](/docs/assets/BW.jpeg "Photograph by Daniel Rossetti")
   I'm a PhD candidate at the department of Sociology at the University of Amsterdam, and the 
   Interuniversity Center for Social Science Theory and Methodology (ICS) in the Netherlands.
 
