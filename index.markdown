@@ -17,8 +17,8 @@ navigation_weight: 1
   
   I am also working on improving robustness of educational mobility research, my master's thesis
   can be found [here](https://su.diva-portal.org/smash/record.jsf?pid=diva2:1709900). A working 
-  paper titled "How Robust are Country Rankings in Educational Mobility?" I'm writing together
-  with Per Engzell (UCL) will be available shortly.
+  paper titled "How Robust are Country Rankings in Educational Mobility?" that I am writing together
+  with Per Engzell (UCL) is available at Socarxiv [here](https://osf.io/preprints/socarxiv/9zkc2).
 
   Previously I have worked as a research assistant in a project on the role of recrutiment for
   gender differences in Swedish universities, led by Anna Sandberg and Eva Ranehill. You can read
